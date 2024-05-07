@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "goit-ds-hw-03"
+version = "0.1.0"
+description = ""
+authors = ["Alina890 <avojtenko89@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pymongo = "^4.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
